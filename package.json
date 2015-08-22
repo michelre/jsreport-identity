@@ -1,0 +1,19 @@
+{
+  "name": "jsreport-identity",
+  "version": "1.0.0",
+  "description": "Jsreport identity recipe",
+  "main": "jsreport.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/michelre/jsreport-identity.git"
+  },
+  "keywords": [
+    "jsreport",
+    "recipe"
+  ],
+  "author": "Remi Michel <remi.michel38@gmail.com>",
+  "license": "MIT"
+}
